@@ -1,8 +1,11 @@
 Pull the code & then run these commands to run the project
-# npm i
+
 
 To install all the packeges first
+# npm i
 
-# npm start
 
 To run the project
+# npm start
+
+
